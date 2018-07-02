@@ -1,5 +1,5 @@
 ## TED Talk Analysis
-Statistical analysis and topic clustering of Ted Talks 
+Statistical analysis and topic clustering for TED Talks 
 
 The 'Ted_Talks' python notebook looks at a simple statistical analysis of the different properties of the Ted Talk data, to try and gain insights, similar to what an analytics data scientist would do. 
 
