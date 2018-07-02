@@ -3,7 +3,7 @@ Statistical analysis and topic clustering for TED Talks
 
 The 'Ted_Talks' python notebook looks at a simple statistical analysis of the different properties of the Ted Talk data, to try and gain insights, similar to what an analytics data scientist would do. 
 
-The TED_NLP_Clustering notebook groups the Ted Talks together using a clustering method to try and understand what topics yeild the greatest number of views, similar to what a research data scientist would try to implement. Also added are lecture notes for the method this tries to mimic.  
+The 'TED_NLP_Clustering' notebook groups the Ted Talks together using a clustering method to try and understand what topics yeild the greatest number of views, similar to what a research data scientist would try to implement. Also added are lecture notes for the method this tries to mimic.  
 
 ## Results
 
@@ -13,4 +13,4 @@ The results of the clustering were much better than expected. I was able to dete
 
 ## Usage
 
-After getting a working Jupyter notebook, downloading the relevant datasets from the link above, simply clone the repository, and run the cells in the notebook to get it working.
+After getting a working Jupyter notebook environment and downloading the relevant datasets from the link above, simply clone the repository, and run the cells in the notebook.
