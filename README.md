@@ -9,7 +9,7 @@ The TED_NLP_Clustering notebook groups the Ted Talks together using a clustering
 
 The results of the clustering were much better than expected. I was able to determine what kind of topics had the highest view count for the Ted Talks by clustering the main words in the transcripts of the talks, and extracting the main topics. Determining whether this is correlation or causation requires further investigation. This kind of topic understanding can be used to parse through high volumes of text at a high level and understand how they relate to key north star metrics (in this case, number of views).
 
-** Note: ** The transcipts dataset hasn't been added here, as its too large for github. Go to https://www.kaggle.com/rounakbanik/ted-talks to download the full and complete dataset.
+**Note:** The transcipts dataset hasn't been added here, as its too large for github. Go to https://www.kaggle.com/rounakbanik/ted-talks to download the full and complete dataset.
 
 ## Usage
 
